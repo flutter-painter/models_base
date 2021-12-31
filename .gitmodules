@@ -1,0 +1,6 @@
+#[submodule "models_common"]
+#	path = models_common
+#	url = https://gitlab.com/weebi_git/models_common.git
+[submodule "models_common"]
+	path = models_common
+	url = https://gitlab.com/weebi_git/models_common.git
